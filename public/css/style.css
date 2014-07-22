@@ -1,0 +1,31 @@
+#text{
+	position: relative;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 25px;
+	top: 10px;'
+	
+}
+
+.remember{
+	color: #ffffff;
+	text-align: auto;
+	display: inline-block;
+}
+.dropdown{
+	display: inline-block;
+	text-align: center;
+}
+
+.panel-heading{
+	font-weight: bold;
+	font-size: 20px;
+}
+.title{
+	font-weight: bold;
+}
+
+#body_panel{
+	position: relative;
+	top: 30px;
+}
